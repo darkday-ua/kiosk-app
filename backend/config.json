@@ -1,0 +1,158 @@
+{
+    "client":[
+	{
+        "ip":"10.10.10.101",
+        "pid":0,
+        "vlist":[1],
+        "camEnabled":"true"
+    },
+    {    "ip":"10.10.10.102",
+        "pid":0,
+        "vlist":[2],
+        "camEnabled":"true"
+    },
+    {    "ip":"10.10.10.103",
+        "pid":0,
+        "vlist":[2],
+        "camEnabled":"true"
+    },
+    {    "ip":"10.10.10.104",
+        "pid":0,
+        "vlist":[1],
+        "camEnabled":"true"
+    },
+    {    "ip":"10.10.10.105",
+        "pid":0,
+        "vlist":[2],
+        "camEnabled":"true"
+    },
+    {
+        "ip":"10.10.10.7",
+        "pid":1,
+        "vlist":[1],
+        "camEnabled":"true"
+    },
+    {
+        "ip":"192.168.1.50",
+        "pid":1,
+        "vlist":[3],
+        "camEnabled":"true"
+    }
+	],
+	"presentations":[  {
+	"name":"DOOSAN LYNX 300M",
+	"pid":0,
+    "pages":[
+        {
+            "order":0,		
+			"title":"Компактные токарные обрабатывающие центры серии LYNX 300M",
+            "contentType":"img",
+            "linkBlob":"http://kiosk.varius.local/PresentationData/000-1060x800.png",
+            "text":"",
+            "linkOut":""
+        },
+        {
+            "order":1,		
+			"title":"СТАНИНА серии Lynx 300",
+            "contentType":"img",
+            "linkBlob":"http://kiosk.varius.local/PresentationData/001-1060x800.png",
+            "text":"",
+            "linkOut":""
+        },        {
+            "order":2,		
+			"title":"Технические характеристики",
+            "contentType":"img",
+            "linkBlob":"http://kiosk.varius.local/PresentationData/002-1060x800.png",
+            "text":"",
+            "linkOut":""
+        },        {
+            "order":3,		
+			"title":"Технические характеристики",
+            "contentType":"img",
+            "linkBlob":"http://kiosk.varius.local/PresentationData/003-1060x800.png",
+            "text":"",
+            "linkOut":""
+        },        {
+            "order":4,		
+			"title":"Симуляция обработки детали",
+            "contentType":"img",
+            "linkBlob":"http://kiosk.varius.local/PresentationData/004-1060x800.png",
+            "text":"",
+            "linkOut":""
+        },{
+            "order":5,
+            "title":"Симуляция обработки детали",
+            "contentType":"video",
+            "linkBlob":"http://kiosk.varius.local/PresentationData/lynx300m.mp4",
+            "text":"",
+            "linkOut":""
+        },
+        {
+            "order":6,		
+			"title":"Группа компаний 'ВариУс' - решение полного цикла инжиниринговых задач",
+            "contentType":"img",
+            "linkBlob":"http://kiosk.varius.local/PresentationData/005-1060x800.png",
+            "text":"",
+            "linkOut":""
+        }
+    ]
+    },
+    {
+		"name":"Second",
+		"pid":1,
+        "pages":[
+            {
+		"order":0,
+		"title":"title02-01",
+                "contentType":"img",
+                "linkBlob":"http://kiosk.varius.local/PresentationData/001-1060x800.png",
+                "text":"<i>P02-01</i>",
+                "linkOut":""
+            }
+        ]
+        }
+	],
+	"videos":[  
+		{
+			"name":"fallback-video-vod",
+			"vid":0,		
+					"title":"video vod",
+					"contentType":"img",
+					"linkBlob":"http://kiosk.varius.local/PresentationData/pvp.mp4",
+					"text":"",
+					"linkOut":"",
+					"managed":"false"	
+			},			
+            {
+                "name":"video1-hls",
+                "vid":1,		
+                        "title":"hls",
+                        "contentType":"video/hls",
+                        "linkBlob":"http://kiosk.varius.local/hls/gopro98_.m3u8",
+                        "text":"",
+                        "linkOut":"",
+                        "managed":"true"		
+                },
+                {
+                    "name":"video2-hls",
+                    "vid":2,		
+                            "title":"hls",
+                            "contentType":"video/hls",
+                            "linkBlob":"http://kiosk.varius.local/hls/gopro99_.m3u8",
+                            "text":"",
+                            "linkOut":"",
+                            "managed":"true"		
+                },
+                {
+                    "name":"video3-hls",
+                    "vid":3,		
+                            "title":"hls",
+                            "contentType":"video/hls",
+                            "linkBlob":"http://kiosk.varius.local/hls/goprostub.m3u8",
+                            "text":"",
+                            "linkOut":"",
+                            "managed":"true"		
+                    }
+                
+		]
+}

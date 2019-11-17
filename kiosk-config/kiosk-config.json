@@ -1,0 +1,452 @@
+{
+    "client": {
+        "10.10.10.101": {
+            "pid": 0,
+            "page": 0,
+            "vlist": [0],
+            "camEnabled": 1,
+            "camNum": 1
+        },
+        "10.10.10.102": {
+            "pid": 0,
+            "page": 0,
+            "vlist": [0],
+            "camEnabled": 2,
+            "camNum": 2
+        },
+        "10.10.10.103": {
+            "pid": 0,
+            "page": 0,
+            "vlist": [0],
+            "camEnabled": 0,
+            "camNum": 2
+        },
+        "10.10.10.104": {
+            "pid": 0,
+            "page": 0,
+            "vlist": [0],
+            "camEnabled": 1,
+            "camNum": 2
+        },
+        "10.10.10.105": {
+            "pid": 0,
+            "page": 0,
+            "vlist": [0],
+            "camEnabled": 1,
+            "camNum": 1
+        },
+        "10.10.10.7": {
+            "pid": 4,
+            "page": 0,
+            "vlist": [0],
+            "camEnabled": 1,
+            "camNum": 2
+        }
+    },
+    "presentations": [{
+            "name": "DOOSAN MYNX 5400M",
+            "pid": 0,
+            "pages": [{
+                    "order": 0,
+                    "title": "Вертикальный фрезерный обрабатывающий центр. Особенности: высокая скорость обработки, при тяжелых режимах резания.",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/mynx5400/mynx5400-001.png",
+                    "text": "",
+                    "linkOut": ""
+                },
+                {
+                    "order": 1,
+                    "title": "Супер жесткая станина Mynx 5400/50",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/mynx5400/mynx5400-002.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 2,
+                    "title": "Более широкие коробчатые направляющие скольжения",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/mynx5400/mynx5400-003.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 3,
+                    "title": "Технические характеристики",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/mynx5400/mynx5400-004.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 4,
+                    "title": "Информация о детали",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/mynx5400/mynx5400-005.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 5,
+                    "title": "Обрабатываемая деталь «Блок цилиндров»",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/mynx5400/mynx5400-006.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 6,
+                    "title": "Операция №1 – Обработка отверстий",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/mynx5400/mynx5400-007.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 7,
+                    "title": "Операция №2 – Обработка пазов",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/mynx5400/mynx5400-008.png",
+                    "text": "",
+                    "linkOut": ""
+                },
+                {
+                    "order": 8,
+                    "title": "Симуляция обработки детали",
+                    "contentType": "video",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/mynx5400/mynx5400-2019.mp4",
+                    "text": "",
+                    "linkOut": ""
+                },
+                {
+                    "order": 9,
+                    "title": "Группа компаний 'ВариУс' - решение полного цикла инжиниринговых задач",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/common.png",
+                    "text": "",
+                    "linkOut": ""
+                }
+            ]
+        },
+        {
+            "name": "DOOSAN LYNX 2100LYB",
+            "pid": 1,
+            "pages": [{
+                    "order": 0,
+                    "title": "Высокопроизводительный токарный обрабатывающий центр нового поколения",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/lynx2100lyb/2100lyb-001.png",
+                    "text": "",
+                    "linkOut": ""
+                },
+                {
+                    "order": 1,
+                    "title": "Cупер жесткая станина Lynx 2100",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/lynx2100lyb/2100lyb-002.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 2,
+                    "title": "Технические характеристики",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/lynx2100lyb/2100lyb-003.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 3,
+                    "title": "Технические характеристики",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/lynx2100lyb/2100lyb-004.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 4,
+                    "title": "Информация о детали",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/lynx2100lyb/2100lyb-005.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 5,
+                    "title": "Модель детали",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/lynx2100lyb/2100lyb-006.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 6,
+                    "title": "Симуляция обработки детали",
+                    "contentType": "video",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/lynx2100lyb/lynx2100lyb-2019.mp4",
+                    "text": "",
+                    "linkOut": ""
+                },
+                {
+                    "order": 7,
+                    "title": "Группа компаний 'ВариУс' - решение полного цикла инжиниринговых задач",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/common.png",
+                    "text": "",
+                    "linkOut": ""
+                }
+            ]
+        },
+        {
+            "name": "DOOSAN PUMA GT2600LM",
+            "pid": 2,
+            "pages": [{
+                    "order": 0,
+                    "title": "Высокопроизводительный токарный обрабатывающий центр",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumagt2600lm/pumagt2600lm-001.png",
+                    "text": "",
+                    "linkOut": ""
+                },
+                {
+                    "order": 1,
+                    "title": "Станина PUMA GT2600LM",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumagt2600lm/pumagt2600lm-002.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 2,
+                    "title": "Технические характеристики",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumagt2600lm/pumagt2600lm-003.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 3,
+                    "title": "Технические характеристики",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumagt2600lm/pumagt2600lm-004.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 4,
+                    "title": "Информация о детали",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumagt2600lm/pumagt2600lm-005.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 5,
+                    "title": "Модель детали",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumagt2600lm/pumagt2600lm-006.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 6,
+                    "title": "Симуляция обработки детали",
+                    "contentType": "video",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumagt2600lm/pumagt2600lm-2019.mp4",
+                    "text": "",
+                    "linkOut": ""
+                },
+                {
+                    "order": 7,
+                    "title": "Группа компаний 'ВариУс' - решение полного цикла инжиниринговых задач",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/common.png",
+                    "text": "",
+                    "linkOut": ""
+                }                
+            ]
+        },
+        {
+            "name": "DOOSAN PUMA ST20GS",
+            "pid": 3,
+            "pages": [{
+                    "order": 0,
+                    "title": "Высокопроизводительный токарный центр швейцарского типа",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumast20gs/pumast20gs-001.png",
+                    "text": "",
+                    "linkOut": ""
+                },
+                {
+                    "order": 1,
+                    "title": "Станина PUMA ST20GS",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumast20gs/pumast20gs-002.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 2,
+                    "title": "Технические характеристики",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumast20gs/pumast20gs-003.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {            
+                    "order": 3,
+                    "title": "Информация о детали",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumast20gs/pumast20gs-004.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {            
+                    "order": 4,
+                    "title": "Модель детали",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumast20gs/pumast20gs-005.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 5,
+                    "title": "Симуляция обработки детали",
+                    "contentType": "video",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/pumast20gs/pumast20gs-2019.mp4",
+                    "text": "",
+                    "linkOut": ""
+                },
+                {
+                    "order": 6,
+                    "title": "Группа компаний 'ВариУс' - решение полного цикла инжиниринговых задач",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/common.png",
+                    "text": "",
+                    "linkOut": ""
+                }                
+            ]
+        },
+        {
+            "name": "DOOSAN DNM 5700",
+            "pid": 4,
+            "pages": [{
+                    "order": 0,
+                    "title": "Высокопроизводительный вертикальный фрезерный обрабатывающий центр нового поколения",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/dnm5700/dnm5700-001.png",
+                    "text": "",
+                    "linkOut": ""
+                },
+                {
+                    "order": 1,
+                    "title": "Станина DNM 5700",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/dnm5700/dnm5700-002.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {
+                    "order": 2,
+                    "title": "Технические характеристики",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/dnm5700/dnm5700-003.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {            
+                    "order": 3,
+                    "title": "Информация о детали",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/dnm5700/dnm5700-004.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {            
+                    "order": 4,
+                    "title": "Обрабатываемая деталь 'Корпус алюминиевый'",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/dnm5700/dnm5700-005.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {            
+                    "order": 5,
+                    "title": "Заготовка",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/dnm5700/dnm5700-006.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {            
+                    "order": 6,
+                    "title": "Обработанная деталь",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/dnm5700/dnm5700-007.png",
+                    "text": "",
+                    "linkOut": ""
+                }, {            
+                    "order": 7,
+                    "title": "Сравнительная таблица 'Обработки Корпуса алюминиевого'",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/dnm5700/dnm5700-008.png",
+                    "text": "",
+                    "linkOut": ""
+                },
+                {
+                    "order": 8,
+                    "title": "Симуляция обработки детали",
+                    "contentType": "video",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/dnm5700/dnm5700-2019.mp4",
+                    "text": "",
+                    "linkOut": ""
+                },
+                {
+                    "order": 9,
+                    "title": "Группа компаний 'ВариУс' - решение полного цикла инжиниринговых задач",
+                    "contentType": "img",
+                    "linkBlob": "http://kiosk.varius.local/PresentationData/common.png",
+                    "text": "",
+                    "linkOut": ""
+                }                
+            ]
+        }           
+    ],
+    "videos": [{
+            "name": "fallback-video-vod",
+            "vid": 0,
+            "title": "Продавец или Поставщик? Узнайте разницу!",
+            "contentType": "img",         
+            "linkBlob": "http://kiosk.varius.local/PresentationData/video/pvp.mp4",
+            "text": "",
+            "linkOut": "",
+            "managed": "false"
+        },
+        {
+            "name": "video1-hls",
+            "vid": 1,
+            "title": "hls",
+            "contentType": "video/hls",
+            "linkBlob": "http://kiosk.varius.local/hls/gopro_1_.m3u8",
+            "text": "",
+            "linkOut": "",
+            "managed": "true"
+        },
+        {
+            "name": "video2-hls",
+            "vid": 2,
+            "title": "hls",
+            "contentType": "video/hls",
+            "linkBlob": "http://kiosk.varius.local/hls/gopro_2_.m3u8",
+            "text": "",
+            "linkOut": "",
+            "managed": "true"
+        },
+        {
+            "name": "video3-hls",
+            "vid": 3,
+            "title": "hls",
+            "contentType": "video/hls",
+            "linkBlob": "http://kiosk.varius.local/hls/goprostub.m3u8",
+            "text": "",
+            "linkOut": "",
+            "managed": "true"
+        },
+        {
+            "name": "puma2600sy",
+            "vid": 4,
+            "title": "PUMA 2600 SY",
+            "contentType": "vod",
+            "linkBlob": "http://kiosk.varius.local/PresentationData/puma2600sy.mp4",
+            "text": "",
+            "linkOut": "",
+            "managed": "false"
+        },
+        {
+            "name": "pumatw2600",
+            "vid": 5,
+            "title": "PUMA TW 2600 с загрузиком",
+            "contentType": "vod",
+            "linkBlob": "http://kiosk.varius.local/PresentationData/pumatw2600.mp4",
+            "text": "",
+            "linkOut": "",
+            "managed": "false"
+        }
+
+    ]
+}
